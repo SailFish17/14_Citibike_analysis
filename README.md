@@ -30,6 +30,8 @@ Bike use by gender shows where the 2 main groups diverge in bike use.   While me
 ![Weekday Trips by Gender](https://public.tableau.com/profile/phil.fishman#!/vizhome/14_WeekdayTripsbyGender/WeekdayTripsbyGender?publish=yes)
 
 
+![Weekday Trips by Gender](/Resources/Weeekday trips by gender & Customer type.png)
+
 The review of Trips by Weekday by Gender shows another dimension that includes differences in spot customer and subscriber use.   Clearly we see several trends within this greyscale chart.  Men’s use on Weekdays is well shown again, and those men are typically subscribers, meaning they rely on this modality and are willing to pay for it as a prefunded transportation option.  Women subscribers show a similar use pattern at a lower volume that correlates with earlier charts on Check out by gender above.  
 
 ![Trips by Gender and Customer Type](https://public.tableau.com/profile/phil.fishman#!/vizhome/14_CitiBike_Challenge/TripsbyWeekdaybyGender?publish=yes)
