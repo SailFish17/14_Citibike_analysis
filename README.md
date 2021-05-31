@@ -13,6 +13,7 @@ Women and Men showed similar behavior in ride duration.
 
 ![Check Out Duration](https://public.tableau.com/profile/phil.fishman#!/vizhome/14_CheckOutDuration/CheckOutDuration?publish=yes)
 
+![Checkout Time](Resources/Checkout Times.png)
 
 ![Check Out by Gender](https://public.tableau.com/profile/phil.fishman#!/vizhome/14_CheckOutbyGender/CheckOutbyGender?publish=yes)
 
