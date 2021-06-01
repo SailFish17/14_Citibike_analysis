@@ -3,13 +3,13 @@
 *This analysis was prepared for the express use of to fund a bikesharing program in Des Moines IA.  Unintended use of or by anyone else is expressly forbidden under the terms of the NDA executed on Feb 4, 2021.*
 
 ## Overview:
-This project is an incomplete analysis of the Citibike bike sharing program in NY as an entre to funding a comparable bike sharing program in Des Moines IA.   This is only one part of the analysis that full funding would be based on.   This analysis will cover the program in New York City based on data from August 201XXX.    
+This project is an incomplete analysis of the Citibike bike sharing program in NY as an entre to funding a comparable bike sharing program in Des Moines IA.   This is only one part of the analysis that full funding would be based on.   This analysis will cover the program in New York City based on data from August 2019.    
 
 
 ## Results:
 The check out duration of bikes was fairly short.   Whilst the graph does not clearly represent the information, most bike rides were under one hour.
 
-Women and Men showed similar behavior in ride duration.  (Please note; Unfortunately,  Tableau Public has been unwilling to accept linkages to this paper, so while there are click thru to the Tableau, all graphs are also reproduced from locally stored .png files stored in the resource directory of this repository.)
+Women and Men showed similar behavior in ride duration.  (Please note; Unfortunately,  Tableau Public has been unwilling to accept linkages to this paper, so while there are click thru buttons to the Tableau, all graphs are also reproduced from locally stored .png files stored in the resource directory of this repository.)
 
 ![Check Out Time](https://public.tableau.com/profile/phil.fishman#!/vizhome/14_CheckOutDuration/CheckOutDuration?publish=yes)
 
@@ -19,11 +19,15 @@ Women and Men showed similar behavior in ride duration.  (Please note; Unfortuna
 
 ![Check Out by Gender](https://public.tableau.com/profile/phil.fishman#!/vizhome/14_CheckOutbyGender/CheckOutbyGender?publish=yes)
 
+![Check Out by Gender]()
+
 
 
 Heat maps were used to visualize hourly use over the course of the week.   New York is a commuter town with many transportation modalities available. It is clear from the heat maps that bikes were used to commute to and from work on Monday, Tuesday and Thursday.    Interestingly Wednesday did not show the same commuting pattern as other nights of the week.
 
-![Trips by Weedkay per Hour](https://public.tableau.com/profile/phil.fishman#!/vizhome/14_TripsbyWeekdayperHour/TripsbyWeekdayperHour)
+![Trips by Weekday per Hour](https://public.tableau.com/profile/phil.fishman#!/vizhome/14_TripsbyWeekdayperHour/TripsbyWeekdayperHour)
+
+![Trips by Weekday per hour](https://github.com/SailFish17/14_Citibike_analysis/blob/main/Resources/weekday%20trips%20per%20hour.png)
 
 Bike use by gender shows where the 2 main groups diverge in bike use.   While men seem to use the bike to get to and mostly from work, women seem to use Citibike mostly on Saturdays during the day.  Showing this may be more a form of entertainment for them rather than a communication modality.
 
