@@ -17,7 +17,7 @@ Women and Men showed similar behavior in ride duration.  (Please note; Unfortuna
 ![Checkout Time](https://github.com/SailFish17/14_Citibike_analysis/blob/main/Resources/Checkout%20Times.png)
 
 
-The Check out by Gender visualization did not work as well as expected.   The graph should show a variation of the above the data with 2 lines showing the same distribution in time.  However, due to some unknown issue, the following visualization was rendered.
+*The Check out by Gender visualization did not work as well as expected.   The graph should show a variation of the above the data with 2 lines showing the same distribution in time.  However, due to some unknown issue, the following visualization was rendered.*
 
 ![Check Out by Gender](https://public.tableau.com/profile/phil.fishman#!/vizhome/14_CheckOutbyGender/CheckOutbyGender?publish=yes)
 
