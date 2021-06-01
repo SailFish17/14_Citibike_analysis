@@ -9,7 +9,7 @@ This project is an incomplete analysis of the Citibike bike sharing program in N
 ## Results:
 The check out duration of bikes was fairly short.   Whilst the graph does not clearly represent the information, most bike rides were under one hour.
 
-Women and Men showed similar behavior in ride duration.
+Women and Men showed similar behavior in ride duration.  (Please note; Unfortunately,  Tableau Public has been unwilling to accept linkages to this paper, so while there are click thru to the Tableau, all graphs are also reproduced from locally stored .png files stored in the resource directory of this repository.)
 
 ![Check Out Time](https://public.tableau.com/profile/phil.fishman#!/vizhome/14_CheckOutDuration/CheckOutDuration?publish=yes)
 
