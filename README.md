@@ -17,9 +17,11 @@ Women and Men showed similar behavior in ride duration.  (Please note; Unfortuna
 ![Checkout Time](https://github.com/SailFish17/14_Citibike_analysis/blob/main/Resources/Checkout%20Times.png)
 
 
+The Check out by Gender visualization did not work as well as expected.   The graph should show a variation of the above the data with 2 lines showing the same distribution in time.  However, due to some unknown issue, the following visualization was rendered.
+
 ![Check Out by Gender](https://public.tableau.com/profile/phil.fishman#!/vizhome/14_CheckOutbyGender/CheckOutbyGender?publish=yes)
 
-![Check Out by Gender]()
+![Check Out by Gender](https://github.com/SailFish17/14_Citibike_analysis/blob/main/Resources/checkout%20by%20gender.png)
 
 
 
@@ -35,10 +37,13 @@ Bike use by gender shows where the 2 main groups diverge in bike use.   While me
 
 
 ![Weekday Trips by Gender](/Resources/Weeekday trips by gender & Customer type.png)
+![Weekday Trips by Gender](https://github.com/SailFish17/14_Citibike_analysis/blob/main/Resources/Weekday%20trips%20by%20gender.png)
 
 The review of Trips by Weekday by Gender shows another dimension that includes differences in spot customer and subscriber use.   Clearly we see several trends within this greyscale chart.  Men’s use on Weekdays is well shown again, and those men are typically subscribers, meaning they rely on this modality and are willing to pay for it as a prefunded transportation option.  Women subscribers show a similar use pattern at a lower volume that correlates with earlier charts on Check out by gender above.  
 
 ![Trips by Gender and Customer Type](https://public.tableau.com/profile/phil.fishman#!/vizhome/14_CitiBike_Challenge/TripsbyWeekdaybyGender?publish=yes)
+
+![Trips by Gender and Customer Type](https://github.com/SailFish17/14_Citibike_analysis/blob/main/Resources/Weeekday%20trips%20by%20gender%20%26%20Customer%20type.png)
 
 
 ## Follow up:
